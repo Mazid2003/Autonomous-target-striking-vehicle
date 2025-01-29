@@ -24,9 +24,12 @@ Arduino & ESP8266 WiFi Module for connectivity
 
 **📂 Repository Contents:**
 
+Contains the architecture of the model 
+
 Arduino.ino – Contains the ESP8266 WiFi module code
 
 Object_detection.py – Real-time object detection implementation
+
 
 **🚀 Future Improvements:**
 
