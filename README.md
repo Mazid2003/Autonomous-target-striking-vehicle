@@ -1,10 +1,21 @@
-Autonomous Target Striking Vehicle Project Overview The Autonomous Target Striking Vehicle is an unmanned vehicle prototype developed for defense applications, designed to
-autonomously identify, track, and engage specified targets. Using advanced sensors, computer vision, and real-time data processing, the vehicle operates with high precision, 
-making it suitable for deployment in high-risk or remote environments. This project demonstrates the potential of autonomous systems to support military operations by minimizing
-human involvement in dangerous missions.
-Technologies Used Computer Vision for target recognition and tracking Sensor Integration for obstacle detection and navigation Autonomous Control Algorithms to 
-manage navigation and target engagement Future Improvements Potential future developments include improved obstacle avoidance, enhanced accuracy, and integration of 
-machine learning models for adaptive target recognition in complex environments.
-In this repository, Arduino.ion is a file which consists of Wifi module code (ESP8266) where you have to dump your code in the ESP8266 module.
+🚀 Autonomous Target Striking Vehicle
+An unmanned vehicle prototype designed for defense applications, capable of autonomously identifying, tracking, and engaging specified targets. This system leverages computer vision, advanced sensors, and real-time data processing to operate with high precision in high-risk or remote environments.
 
-Object detection.py is a file, where it consists of real time object detection code.
+✨ Features:
+Autonomous Target Detection & Tracking using computer vision
+Real-Time Object Detection for engagement
+Sensor Integration for obstacle detection & navigation
+ESP8266 WiFi Module for communication
+🔧 Technologies Used:
+Computer Vision for target recognition & tracking
+Ultrasonic & Other Sensors for obstacle detection
+Autonomous Control Algorithms for navigation & engagement
+Arduino & ESP8266 WiFi Module for connectivity
+📂 Repository Contents:
+Arduino.ino – Contains the ESP8266 WiFi module code
+Object_detection.py – Real-time object detection implementation
+🚀 Future Improvements:
+Enhanced obstacle avoidance
+Improved accuracy in target engagement
+Integration of machine learning models for adaptive target recognition
+This project demonstrates the potential of autonomous systems to minimize human involvement in dangerous missions while supporting military operations.
