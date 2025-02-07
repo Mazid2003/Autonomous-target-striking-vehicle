@@ -1,4 +1,4 @@
-**🚀 Autonomous Target Striking Vehicle**
+# 🚀 Autonomous Target Striking Vehicle
 
 An unmanned vehicle prototype designed for defense applications, capable of autonomously identifying, tracking, and engaging specified targets. This system leverages computer vision, advanced sensors, and real-time data processing to operate with high precision in high-risk or remote environments.
 
