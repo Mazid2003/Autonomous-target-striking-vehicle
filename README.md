@@ -40,3 +40,8 @@ Improved accuracy in target engagement
 Integration of machine learning models for adaptive target recognition
 
 This project demonstrates the potential of autonomous systems to minimize human involvement in dangerous missions while supporting military operations.
+
+📜 License
+
+This project is open-source under the MIT License. Feel free to use and
+modify it! 🚀
