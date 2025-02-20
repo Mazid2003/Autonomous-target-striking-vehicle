@@ -17,3 +17,26 @@
 4️⃣ PySerial – For communication between Python and Arduino.
 5️⃣ Arduino IDE – For programming the microcontroller.
 6️⃣ Flask / MQTT (optional) – If integrating a remote monitoring system.
+
+📌 requirements.txt (for GitHub)
+This file should include all necessary dependencies for your Python scripts.
+
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+ultralytics
+serial
+
+📌 Explanation of Dependencies:
+
+opencv-python → Used for real-time object detection.
+numpy → Required for numerical operations.
+matplotlib → If you want to visualize data.
+torch & torchvision → If using YOLOv8 for object detection.
+ultralytics → YOLOv8 model integration.
+serial → Used for communication between Python and Arduino via USB.
+
+
+
