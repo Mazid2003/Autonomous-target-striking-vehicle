@@ -1,1 +1,19 @@
+📌 Requirements for the Autonomous Target Striking Vehicle
 
+🔧 Hardware Requirements
+1️⃣ Arduino Uno / ESP8266 WiFi Module – Microcontroller for processing and communication.
+2️⃣ Ultrasonic Sensors (HC-SR04) – For obstacle detection and navigation.
+3️⃣ Camera Module (e.g., Raspberry Pi Camera or USB Webcam) – For real-time target detection.
+4️⃣ DC Motors & Motor Driver (L298N or similar) – For vehicle movement and control.
+5️⃣ Servo Motor (SG90 or MG995) – For aiming the target engagement mechanism.
+6️⃣ Power Supply (Li-Po Battery or 18650 Battery Pack) – To power the system.
+7️⃣ Buzzer & LEDs – For status indication and alerts.
+8️⃣ WiFi / RF Module – For remote control and data transmission (if needed).
+
+💻 Software Requirements
+1️⃣ Python (for real-time object detection)
+2️⃣ OpenCV – For image processing and target recognition.
+3️⃣ TensorFlow / YOLOv8 – For real-time object detection and classification.
+4️⃣ PySerial – For communication between Python and Arduino.
+5️⃣ Arduino IDE – For programming the microcontroller.
+6️⃣ Flask / MQTT (optional) – If integrating a remote monitoring system.
