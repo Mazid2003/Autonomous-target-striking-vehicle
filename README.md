@@ -41,7 +41,11 @@ Integration of machine learning models for adaptive target recognition
 
 This project demonstrates the potential of autonomous systems to minimize human involvement in dangerous missions while supporting military operations.
 
-📜 License
+**💬 Want to Collaborate?**
+
+Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
+
+**📜 License**
 
 This project is open-source under the MIT License. Feel free to use and
 modify it! 🚀
